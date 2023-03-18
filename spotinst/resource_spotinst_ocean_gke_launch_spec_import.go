@@ -8,7 +8,7 @@ import (
 	"github.com/spotinst/spotinst-sdk-go/service/ocean/providers/gcp"
 	"github.com/terraform-providers/terraform-provider-spotinst/spotinst/ocean_gke_launch_spec_import"
 
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 
 	"github.com/spotinst/spotinst-sdk-go/spotinst"
 	"github.com/spotinst/spotinst-sdk-go/spotinst/client"

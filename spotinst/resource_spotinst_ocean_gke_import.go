@@ -3,7 +3,7 @@ package spotinst
 import (
 	"context"
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"time"
 
 	"github.com/terraform-providers/terraform-provider-spotinst/spotinst/ocean_gke_import_autoscaler"
