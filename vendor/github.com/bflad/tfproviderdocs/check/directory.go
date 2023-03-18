@@ -2,7 +2,7 @@ package check
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"path/filepath"
 
 	"github.com/bmatcuk/doublestar"

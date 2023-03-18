@@ -3,7 +3,7 @@ package spotinst
 import (
 	"context"
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"regexp"
 	"strings"
 	"testing"
