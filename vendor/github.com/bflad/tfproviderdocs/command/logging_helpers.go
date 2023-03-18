@@ -3,7 +3,7 @@ package command
 import (
 	"flag"
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"text/tabwriter"
 
 	"github.com/hashicorp/go-hclog"

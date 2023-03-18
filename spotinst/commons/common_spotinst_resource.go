@@ -1,7 +1,7 @@
 package commons
 
 import (
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"math/rand"
 	"time"
 

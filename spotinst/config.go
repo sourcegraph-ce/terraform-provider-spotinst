@@ -3,7 +3,7 @@ package spotinst
 import (
 	"errors"
 	"fmt"
-	stdlog "log"
+	stdlog log "github.com/sourcegraph-ce/logrus"
 	"strings"
 
 	"github.com/hashicorp/go-cleanhttp"
